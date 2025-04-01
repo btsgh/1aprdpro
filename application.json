@@ -21,6 +21,10 @@
     {
       "id": "Investors",
       "isDefault": true
+    },
+    {
+      "id": "Page1",
+      "isDefault": false
     }
   ],
   "unpublishedAppLayout": {
