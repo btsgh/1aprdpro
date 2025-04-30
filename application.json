@@ -29,6 +29,10 @@
     {
       "id": "Page2",
       "isDefault": false
+    },
+    {
+      "id": "Movies",
+      "isDefault": false
     }
   ],
   "unpublishedAppLayout": {
