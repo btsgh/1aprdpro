@@ -61,9 +61,9 @@
         "key": "formData.create.expiry.data"
       }
     ],
-    "executeOnLoad": false,
     "name": "CreateFile",
     "pageId": "Conversations",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
