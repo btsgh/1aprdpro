@@ -156,9 +156,9 @@
         "key": "formData.pagination.data.offset"
       }
     ],
-    "executeOnLoad": true,
     "name": "fetchInvestorDetails",
     "pageId": "Conversations",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

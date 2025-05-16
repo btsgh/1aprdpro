@@ -168,9 +168,9 @@
       "pluginId": "google-sheets-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": false,
     "name": "getConversationDetails",
     "pageId": "Conversations",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

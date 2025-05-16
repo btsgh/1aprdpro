@@ -44,9 +44,9 @@
         "key": "queryParameters[0].value"
       }
     ],
-    "executeOnLoad": true,
     "name": "getGeoLocation",
     "pageId": "Conversations",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }
