@@ -100,9 +100,9 @@
         "key": "formData.list.prefix.data"
       }
     ],
-    "executeOnLoad": false,
     "name": "ListFiles",
     "pageId": "Conversations",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

@@ -58,9 +58,9 @@
         "key": "formData.path.data"
       }
     ],
-    "executeOnLoad": false,
     "name": "Query3",
     "pageId": "Conversations",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
