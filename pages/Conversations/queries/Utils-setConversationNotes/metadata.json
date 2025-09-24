@@ -26,10 +26,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "Utils.setConversationNotes",
     "name": "setConversationNotes",
     "pageId": "Conversations",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
